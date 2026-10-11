@@ -1,1 +1,3 @@
-# CNT4007-P2P-File-Sharing
+# CNT4007 P2P Network Project
+
+Description
